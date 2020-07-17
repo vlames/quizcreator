@@ -2,7 +2,7 @@
 
 This is a toy application that allows a user to create a simple quiz.
 
-## Where to start
+## What to do
 1. Type your quiz data in the questions.txt file.
 2. Run the program
 3. Access your quiz
