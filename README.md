@@ -1,6 +1,6 @@
 # QuizCreator
 
-This is a toy application that allows a user to create a simple quiz.
+This is a toy application that allows a user to create a simple quiz. It was built as a personal project at the beginning of a software engineering program in response to one person's need to study/test his knowledge of a particular subject.
 
 ## What to do
 1. Type your quiz data in the questions.txt file.
