@@ -1,0 +1,18 @@
+Quiz Name: A Quiz;
+Number of questions: 3;
+Number of answers choices: 3;
+
+1. Question 1;
+answer choice 1;
+answer choice 2;
+answer choice 3; (correct)
+
+2. Question 2;
+answer choice 1;
+answer choice 2; (correct)
+answer choice 3;
+
+3. Question 3;
+answer choice 1; (correct)
+answer choice 2;
+answer choice 3;
